@@ -52,7 +52,10 @@ Data is securely stored on **Firebase Firestore**, and loan approval is handled 
 
 ## 📱 Screenshots
 
-sc1.jpg
+![Screenshot 1](sc1.jpg)
+![Screenshot 2](sc2.jpg)
+![Screenshot 3](sc3.jpg)
+
 
 
 ---
